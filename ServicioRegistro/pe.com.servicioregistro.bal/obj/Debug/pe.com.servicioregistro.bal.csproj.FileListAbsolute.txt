@@ -1,0 +1,11 @@
+D:\DA2\EP1\ServicioRegistro\pe.com.servicioregistro.bal\bin\Debug\pe.com.servicioregistro.bal.dll
+D:\DA2\EP1\ServicioRegistro\pe.com.servicioregistro.bal\bin\Debug\pe.com.servicioregistro.bal.pdb
+D:\DA2\EP1\ServicioRegistro\pe.com.servicioregistro.bal\bin\Debug\pe.com.servicioregistro.bo.dll
+D:\DA2\EP1\ServicioRegistro\pe.com.servicioregistro.bal\bin\Debug\pe.com.servicioregistro.dal.dll
+D:\DA2\EP1\ServicioRegistro\pe.com.servicioregistro.bal\bin\Debug\pe.com.servicioregistro.bo.pdb
+D:\DA2\EP1\ServicioRegistro\pe.com.servicioregistro.bal\bin\Debug\pe.com.servicioregistro.dal.pdb
+D:\DA2\EP1\ServicioRegistro\pe.com.servicioregistro.bal\obj\Debug\pe.com.servicioregistro.bal.csproj.AssemblyReference.cache
+D:\DA2\EP1\ServicioRegistro\pe.com.servicioregistro.bal\obj\Debug\pe.com.servicioregistro.bal.csproj.CoreCompileInputs.cache
+D:\DA2\EP1\ServicioRegistro\pe.com.servicioregistro.bal\obj\Debug\pe.com.s.F38DD2F5.Up2Date
+D:\DA2\EP1\ServicioRegistro\pe.com.servicioregistro.bal\obj\Debug\pe.com.servicioregistro.bal.dll
+D:\DA2\EP1\ServicioRegistro\pe.com.servicioregistro.bal\obj\Debug\pe.com.servicioregistro.bal.pdb

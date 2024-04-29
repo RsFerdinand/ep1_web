@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DA2\\EP1\\ServicioRegistro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{620A5100-F3AD-42B7-AEB8-E8A06BE65D93}|pe.com.servicioregistro.dal\\pe.com.servicioregistro.dal.csproj|D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.dal\\dalempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620A5100-F3AD-42B7-AEB8-E8A06BE65D93}|pe.com.servicioregistro.dal\\pe.com.servicioregistro.dal.csproj|solutionrelative:pe.com.servicioregistro.dal\\dalempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620A5100-F3AD-42B7-AEB8-E8A06BE65D93}|pe.com.servicioregistro.dal\\pe.com.servicioregistro.dal.csproj|D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.dal\\daldistrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620A5100-F3AD-42B7-AEB8-E8A06BE65D93}|pe.com.servicioregistro.dal\\pe.com.servicioregistro.dal.csproj|solutionrelative:pe.com.servicioregistro.dal\\daldistrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AD845A-7E36-4D0B-99B9-54E8670786CC}|pe.com.servicioregistro.bal\\pe.com.servicioregistro.bal.csproj|D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.bal\\balrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AD845A-7E36-4D0B-99B9-54E8670786CC}|pe.com.servicioregistro.bal\\pe.com.servicioregistro.bal.csproj|solutionrelative:pe.com.servicioregistro.bal\\balrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AD845A-7E36-4D0B-99B9-54E8670786CC}|pe.com.servicioregistro.bal\\pe.com.servicioregistro.bal.csproj|D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.bal\\balempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AD845A-7E36-4D0B-99B9-54E8670786CC}|pe.com.servicioregistro.bal\\pe.com.servicioregistro.bal.csproj|solutionrelative:pe.com.servicioregistro.bal\\balempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AD845A-7E36-4D0B-99B9-54E8670786CC}|pe.com.servicioregistro.bal\\pe.com.servicioregistro.bal.csproj|D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.bal\\baldistrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AD845A-7E36-4D0B-99B9-54E8670786CC}|pe.com.servicioregistro.bal\\pe.com.servicioregistro.bal.csproj|solutionrelative:pe.com.servicioregistro.bal\\baldistrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC0BEE3-B5E4-4AAE-9B9C-AD59BA2145BF}|pe.com.servicioregistro.bo\\pe.com.servicioregistro.bo.csproj|D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.bo\\bodistrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC0BEE3-B5E4-4AAE-9B9C-AD59BA2145BF}|pe.com.servicioregistro.bo\\pe.com.servicioregistro.bo.csproj|solutionrelative:pe.com.servicioregistro.bo\\bodistrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC0BEE3-B5E4-4AAE-9B9C-AD59BA2145BF}|pe.com.servicioregistro.bo\\pe.com.servicioregistro.bo.csproj|D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.bo\\boempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC0BEE3-B5E4-4AAE-9B9C-AD59BA2145BF}|pe.com.servicioregistro.bo\\pe.com.servicioregistro.bo.csproj|solutionrelative:pe.com.servicioregistro.bo\\boempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E059B0-86A1-4B89-B79E-6818540A7DE8}|pe.com.servicioregistro.ws\\pe.com.servicioregistro.ws.csproj|d:\\da2\\ep1\\servicioregistro\\pe.com.servicioregistro.ws\\registrowebservices.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E059B0-86A1-4B89-B79E-6818540A7DE8}|pe.com.servicioregistro.ws\\pe.com.servicioregistro.ws.csproj|solutionrelative:pe.com.servicioregistro.ws\\registrowebservices.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620A5100-F3AD-42B7-AEB8-E8A06BE65D93}|pe.com.servicioregistro.dal\\pe.com.servicioregistro.dal.csproj|D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.dal\\dalrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620A5100-F3AD-42B7-AEB8-E8A06BE65D93}|pe.com.servicioregistro.dal\\pe.com.servicioregistro.dal.csproj|solutionrelative:pe.com.servicioregistro.dal\\dalrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620A5100-F3AD-42B7-AEB8-E8A06BE65D93}|pe.com.servicioregistro.dal\\pe.com.servicioregistro.dal.csproj|D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620A5100-F3AD-42B7-AEB8-E8A06BE65D93}|pe.com.servicioregistro.dal\\pe.com.servicioregistro.dal.csproj|solutionrelative:pe.com.servicioregistro.dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E059B0-86A1-4B89-B79E-6818540A7DE8}|pe.com.servicioregistro.ws\\pe.com.servicioregistro.ws.csproj|D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.ws\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{33E059B0-86A1-4B89-B79E-6818540A7DE8}|pe.com.servicioregistro.ws\\pe.com.servicioregistro.ws.csproj|solutionrelative:pe.com.servicioregistro.ws\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B76FF1-0275-4C2E-9F49-CBF94A3342A7}|pe.com.servicioregistro.ui\\pe.com.servicioregistro.ui.csproj|D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.ui\\frmrol.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{60B76FF1-0275-4C2E-9F49-CBF94A3342A7}|pe.com.servicioregistro.ui\\pe.com.servicioregistro.ui.csproj|solutionrelative:pe.com.servicioregistro.ui\\frmrol.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BOEmpleado.cs",
+              "DocumentMoniker": "D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.bo\\BOEmpleado.cs",
+              "RelativeDocumentMoniker": "pe.com.servicioregistro.bo\\BOEmpleado.cs",
+              "ToolTip": "D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.bo\\BOEmpleado.cs",
+              "RelativeToolTip": "pe.com.servicioregistro.bo\\BOEmpleado.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T03:33:14.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BALEmpleado.cs",
+              "DocumentMoniker": "D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.bal\\BALEmpleado.cs",
+              "RelativeDocumentMoniker": "pe.com.servicioregistro.bal\\BALEmpleado.cs",
+              "ToolTip": "D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.bal\\BALEmpleado.cs",
+              "RelativeToolTip": "pe.com.servicioregistro.bal\\BALEmpleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T03:33:03.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BODistrito.cs",
+              "DocumentMoniker": "D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.bo\\BODistrito.cs",
+              "RelativeDocumentMoniker": "pe.com.servicioregistro.bo\\BODistrito.cs",
+              "ToolTip": "D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.bo\\BODistrito.cs",
+              "RelativeToolTip": "pe.com.servicioregistro.bo\\BODistrito.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T03:13:43.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegistroWebServices.asmx.cs",
+              "DocumentMoniker": "D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.ws\\RegistroWebServices.asmx.cs",
+              "RelativeDocumentMoniker": "pe.com.servicioregistro.ws\\RegistroWebServices.asmx.cs",
+              "ToolTip": "D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.ws\\RegistroWebServices.asmx.cs",
+              "RelativeToolTip": "pe.com.servicioregistro.ws\\RegistroWebServices.asmx.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAcwHMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T02:33:28.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BALDistrito.cs",
+              "DocumentMoniker": "D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.bal\\BALDistrito.cs",
+              "RelativeDocumentMoniker": "pe.com.servicioregistro.bal\\BALDistrito.cs",
+              "ToolTip": "D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.bal\\BALDistrito.cs",
+              "RelativeToolTip": "pe.com.servicioregistro.bal\\BALDistrito.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T03:13:30.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BALRol.cs",
+              "DocumentMoniker": "D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.bal\\BALRol.cs",
+              "RelativeDocumentMoniker": "pe.com.servicioregistro.bal\\BALRol.cs",
+              "ToolTip": "D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.bal\\BALRol.cs",
+              "RelativeToolTip": "pe.com.servicioregistro.bal\\BALRol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T02:51:39.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DALDistrito.cs",
+              "DocumentMoniker": "D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.dal\\DALDistrito.cs",
+              "RelativeDocumentMoniker": "pe.com.servicioregistro.dal\\DALDistrito.cs",
+              "ToolTip": "D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.dal\\DALDistrito.cs",
+              "RelativeToolTip": "pe.com.servicioregistro.dal\\DALDistrito.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAALAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T03:14:00.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DALEmpleado.cs",
+              "DocumentMoniker": "D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.dal\\DALEmpleado.cs",
+              "RelativeDocumentMoniker": "pe.com.servicioregistro.dal\\DALEmpleado.cs",
+              "ToolTip": "D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.dal\\DALEmpleado.cs",
+              "RelativeToolTip": "pe.com.servicioregistro.dal\\DALEmpleado.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAADgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T03:33:24.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.dal\\Conexion.cs",
+              "RelativeDocumentMoniker": "pe.com.servicioregistro.dal\\Conexion.cs",
+              "ToolTip": "D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.dal\\Conexion.cs",
+              "RelativeToolTip": "pe.com.servicioregistro.dal\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T01:57:31.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DALRol.cs",
+              "DocumentMoniker": "D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.dal\\DALRol.cs",
+              "RelativeDocumentMoniker": "pe.com.servicioregistro.dal\\DALRol.cs",
+              "ToolTip": "D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.dal\\DALRol.cs",
+              "RelativeToolTip": "pe.com.servicioregistro.dal\\DALRol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T01:57:10.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.ws\\Web.config",
+              "RelativeDocumentMoniker": "pe.com.servicioregistro.ws\\Web.config",
+              "ToolTip": "D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.ws\\Web.config",
+              "RelativeToolTip": "pe.com.servicioregistro.ws\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-27T03:07:51.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmRol.aspx",
+              "DocumentMoniker": "D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.ui\\frmRol.aspx",
+              "RelativeDocumentMoniker": "pe.com.servicioregistro.ui\\frmRol.aspx",
+              "ToolTip": "D:\\DA2\\EP1\\ServicioRegistro\\pe.com.servicioregistro.ui\\frmRol.aspx",
+              "RelativeToolTip": "pe.com.servicioregistro.ui\\frmRol.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-27T01:55:08.388Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
